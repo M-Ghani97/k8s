@@ -158,3 +158,4 @@ deploy_k3s
 deploy_cloud_manager
 integrate_cinder_csi
 check_cinder_csi
+deploy_dashboard
